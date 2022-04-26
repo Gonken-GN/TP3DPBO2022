@@ -9,5 +9,7 @@
 ![ScreenShots 1](https://github.com/Gonken-GN/TP3DPBO2022/blob/main/Screenshoots/warning.png)
 - ### View All
 ![ScreenShots 1](https://github.com/Gonken-GN/TP3DPBO2022/blob/main/Screenshoots/semua%20data.png)
+- ### Delete Table
+![ScreenShots 1](https://github.com/Gonken-GN/TP3DPBO2022/blob/main/Screenshoots/hapus.png)
 - ### Daftar Fasilitas
 ![ScreenShots 1](https://github.com/Gonken-GN/TP3DPBO2022/blob/main/Screenshoots/daftar.png)
